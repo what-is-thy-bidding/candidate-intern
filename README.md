@@ -17,10 +17,10 @@ RenoRun Software Intern take home evaluation. The goal is to test interns knowle
 ```json
 [
     {
-        "product_id": int,
-        "name": String,
-        "description": String,
-        "price": double
+        "product_id": "int",
+        "name": "String",
+        "description": "String",
+        "price": "double"
     }
 ]
 ```
@@ -29,10 +29,10 @@ RenoRun Software Intern take home evaluation. The goal is to test interns knowle
 ### Response
 ```json
 {
-  "product_id": int,
-  "name": String,
-  "description": String,
-  "price": double
+  "product_id": "int",
+  "name": "String",
+  "description": "String",
+  "price": "double"
 }
 ```
 
@@ -41,10 +41,10 @@ RenoRun Software Intern take home evaluation. The goal is to test interns knowle
 ```json
 [
     {
-        "order_id": int,
-        "product_id": int,
-        "color": String,
-        "email": String
+        "order_id": "int",
+        "product_id": "int",
+        "color": "String",
+        "email": "String"
     }
 ]
 ```
@@ -52,9 +52,9 @@ RenoRun Software Intern take home evaluation. The goal is to test interns knowle
 ### Request
 ```json
 {
-    "order_id": int,
-    "product_id": int,
-    "color": String,
-    "email": String
+    "order_id": "int",
+    "product_id": "int",
+    "color": "String",
+    "email": "String"
 }
 ```
