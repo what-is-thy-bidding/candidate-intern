@@ -48,7 +48,7 @@ RenoRun Software Intern take home evaluation. The goal is to test interns knowle
     }
 ]
 ```
-## order (POST /orders)
+## postOrder (POST /orders)
 ### Request
 ```json
 {
