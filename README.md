@@ -36,7 +36,7 @@ RenoRun Software Intern take home evaluation. The goal is to test interns knowle
 }
 ```
 
-## getAllOrders (Get /orders)
+## getAllOrders (GET /orders)
 ### Response
 ```json
 [
